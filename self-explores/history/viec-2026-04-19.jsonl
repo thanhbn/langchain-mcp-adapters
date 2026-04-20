@@ -1,0 +1,1 @@
+{"ts": "2026-04-19T19:43:48+07:00", "cmd": "/viec setup", "args": "setup", "mode": "setup", "project": "langchain-mcp-adapters", "task_context": "", "summary": "Setup xong: beads lma, claude hooks, self-explores/, backup enabled", "result": "done"}
